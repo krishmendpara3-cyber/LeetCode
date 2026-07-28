@@ -24,6 +24,7 @@
 | [0148-sort-list](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
 | ------- |
@@ -69,4 +70,5 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->

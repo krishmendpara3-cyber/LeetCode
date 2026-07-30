@@ -36,6 +36,7 @@
 | [0307-range-sum-query-mutable](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0372-super-pow](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0372-super-pow) |
 ## Tree
 |  |
 | ------- |
@@ -122,4 +123,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Math
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->

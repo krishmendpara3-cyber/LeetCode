@@ -13,6 +13,7 @@
 | [0307-range-sum-query-mutable](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0427-construct-quad-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0427-construct-quad-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0427-construct-quad-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0427-construct-quad-tree) |
 ## Tree
 |  |
 | ------- |
@@ -46,6 +48,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0427-construct-quad-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0427-construct-quad-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -105,6 +108,7 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0427-construct-quad-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0427-construct-quad-tree) |
 ## Design
 |  |
 | ------- |

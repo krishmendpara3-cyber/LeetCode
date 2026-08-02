@@ -15,6 +15,7 @@
 | [0347-top-k-frequent-elements](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0427-construct-quad-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0654-maximum-binary-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Hash Table
 |  |
@@ -144,6 +145,7 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0372-super-pow) |
+| [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
 ## String
 |  |
 | ------- |
@@ -160,4 +162,12 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

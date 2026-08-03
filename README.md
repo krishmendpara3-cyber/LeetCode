@@ -21,6 +21,7 @@
 | [0912-sort-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@
 | [0912-sort-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0324-wiggle-sort-ii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -122,12 +125,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -160,6 +165,7 @@
 | [0372-super-pow](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0372-super-pow) |
 | [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
 | [0932-beautiful-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 ## String
 |  |
@@ -213,4 +219,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->

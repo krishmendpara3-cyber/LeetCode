@@ -20,6 +20,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0932-beautiful-array) |
 | [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
@@ -55,6 +56,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0932-beautiful-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0932-beautiful-array) |
 ## Tree
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | ------- |
 | [0372-super-pow](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0372-super-pow) |
 | [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
+| [0932-beautiful-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0932-beautiful-array) |
 | [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 ## String
 |  |

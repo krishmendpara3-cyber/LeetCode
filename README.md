@@ -20,6 +20,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | ------- |
 | [0372-super-pow](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0372-super-pow) |
 | [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -178,10 +180,12 @@
 | [0053-maximum-subarray](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0053-maximum-subarray) |
 | [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 ## Queue
 |  |
 | ------- |
@@ -198,4 +202,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0912-sort-an-array) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->

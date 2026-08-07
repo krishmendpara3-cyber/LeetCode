@@ -26,6 +26,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2343-query-kth-smallest-trimmed-number](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/2343-query-kth-smallest-trimmed-number) |
+| [3537-fill-a-special-grid](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Tree
 |  |
 | ------- |
@@ -159,6 +161,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/0427-construct-quad-tree) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3537-fill-a-special-grid](https://github.com/krishmendpara3-cyber/LeetCode/tree/master/3537-fill-a-special-grid) |
 ## Design
 |  |
 | ------- |
